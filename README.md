@@ -1,7 +1,9 @@
 # net_practice
 
-goal of this project is to learn and understand IP addressing, subnet masks and routing
+## Description
 
-.json files contain network configuration for each assignement (from level 1 to 10).
+Seemingly small but important and extensive 42 project to learn networking and subnetting.
 
-In order to pass final test / evaluation, the included trainig interface has to be solved with the correct subnetting / routing
+Goal of this project is to understand and implement subnet masks and routing in local networks.
+
+```.json``` files contain network configuration for each assignement - from level 1 to 10.
